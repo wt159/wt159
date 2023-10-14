@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Automobile intelligent cockpit audio
 - 🌱 I’m currently learning Linux_kernel
+- 💻 Personal technology stack: C C++ Android(framework HAL) Embedded Linux(app driver) Audio
 - 💬 Ask me about https://wt159.github.io
 - 📫 How to reach me: wtp0727@gmail.com
 - 😄 Pronouns: ...
