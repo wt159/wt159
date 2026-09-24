@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wt159&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wt159&layout=compact&hide_border=true)
+
+```markdown
+<p>
+     <img
+ src="https://github-stats-extended.vercel.app/api?username=wt159&show_icons=true&count_private=true" height="165" />
+     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wt159&layout=compact" height="165" />
+   </p>
+```
